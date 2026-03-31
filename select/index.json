@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "Honeypie",
+  "base_artist": "JAWNY",
+  "createdAt": "2026-03-31T08:17:36.343492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/01_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/02_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/03_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/04_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/05_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "JAWNY - Honeypie (Official Video)",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/06_JAWNY_-_Honeypie_(Official_Video)_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be My Honeypie",
+      "artist": "The Weepies",
+      "has_synced": true,
+      "path": "select/07_Be_My_Honeypie_The_Weepies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/08_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/09_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "Old 97’s",
+      "has_synced": true,
+      "path": "select/10_Honeypie_Old_97’s.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "JAWNY - Honeypie (Lyrics)",
+      "artist": "Cakes & Eclairs",
+      "has_synced": false,
+      "path": "select/11_JAWNY_-_Honeypie_(Lyrics)_Cakes_&_Eclairs.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/12_Honeypie_JAWNY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": false,
+      "path": "select/pl_01_Honeypie_JAWNY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Honeypie",
+      "artist": "JAWNY",
+      "has_synced": true,
+      "path": "select/localdb_01_Honeypie_JAWNY.lrc",
+      "repo_name": "Wgw6tJ8yz9M"
+    }
+  ]
+}
